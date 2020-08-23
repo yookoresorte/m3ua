@@ -10,3 +10,8 @@ https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=9JUq7mn-Gl5ve1SvTcRjww&e=159817655
 https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=nBBZhviGnih6AQe7Sh3s3w&e=1598176680
 #EXTINF:-1,tnt series
 https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=jld9cN2U_gpuzcCG-fB18Q&e=1598176795
+#EXTINF:-1,24/7 dragon ball super
+https://ul.cdn946.net:8443/hls/wkh0sog7z3le0.m3u8?s=luByjcGiElH_zbX4HKcWZg&e=1598177375
+#EXTINF:-1,history
+https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=ix9jvKld4hR88paVAvkZBw&e=1598177573
+
