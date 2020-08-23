@@ -14,4 +14,6 @@ https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=jld9cN2U_gpuzcCG-fB18Q&e=159
 https://ul.cdn946.net:8443/hls/wkh0sog7z3le0.m3u8?s=luByjcGiElH_zbX4HKcWZg&e=1598177375
 #EXTINF:-1,history
 https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=ix9jvKld4hR88paVAvkZBw&e=1598177573
+#EXTINF:-1, civil warr cap.
+https://gfs204n120.userstorage.mega.co.nz/dl/4oRrV8tUy5xPYAK9F5_8T6pcLYZKDoU2RBow_53hyR4DTqyyWXO1Jf5L8v8dJlXEdvcR0QGVZ3Lj3DegayGVXqEADfiOteJxjw7uWD5qVNK21T0Rk0e2koa75-wFjA/29360128-33554431
 
