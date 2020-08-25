@@ -12,5 +12,6 @@ https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=9vsm8REoH9PgWtsIXM9WZQ&e=159831997
 #EXTINF:-1,fox
 https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=neN4awZTuXq2UeVZBu4HrA&e=1598320341
 
+
 #EXTINF:-1,tnt series
 https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=y1GAQ2BmB5H4oVaH-cKDfQ&e=1598320256
