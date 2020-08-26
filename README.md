@@ -5,8 +5,7 @@ https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=WDgL3bG4PWSZnifb5kuFjw&e=1
 #EXTINF:-1,cartoon network
 https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=de5obNKndvAGrqd03zIHEw&e=1598358346
 #EXTINF:-1,warner
-https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=iF9xTiTCWQtIpdHLwwSSuw&e=1598358113
-
+http://89.105.194.59:25461/live/4spllrjjvv/4spllrjjvv/17.m3u8
 #EXTINF:-1,fox
 https://u65464.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=GfgSwIHuS6RUSVG-nBuFAA&e=1598358443
 
