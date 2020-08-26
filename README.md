@@ -15,5 +15,5 @@ https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=y1GAQ2BmB5H4oVaH-cKDfQ&e=159
 https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=KGOQhn749nD-OcSoRmhcCQ&e=1598358581
 #EXTINF:-1,LOS SIMPSON
 http://89.105.194.59:25461/live/spenlhtiy10/spenlhtiy10/68.m3u8
-#EXTINF:-1,DRAGON BALL
-http://89.105.194.59:25461/live/spenlhtiy10/spenlhtiy10/69.m3u8
+#EXTINF:-1,los simpson largo
+http://89.105.194.59:25461/live/spenlhtiy10/spenlhtiy10/68.m3u8
