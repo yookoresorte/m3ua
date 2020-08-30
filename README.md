@@ -5,7 +5,7 @@ https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=WDgL3bG4PWSZnifb5kuFjw&e=1
 #EXTINF:-1,cartoon network
 https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=de5obNKndvAGrqd03zIHEw&e=1598358346
 #EXTINF:-1,warner
-https://css.gbtcdn.com/imagecache/gbw/css/google_subject-311c7059e856.css?pro
+https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=oZV3Ikoe2L_wWwJM4fBYdQ&e=1598848506
 #EXTINF:-1,fox
 https://u65464.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=GfgSwIHuS6RUSVG-nBuFAA&e=1598358443
 
